@@ -4,7 +4,7 @@
 * [历史和标准](docs/历史和标准/历史和标准.md)
 * [基本概念](docs/基本概念/基本概念.md)
     * [系统调用](docs/基本概念/系统调用.md)
-    * [GNU C库](docs/基本概念/GNU C库.md)
+    * [GNU标准C库glibc](docs/基本概念/GNU标准C库glibc.md)
     * [静态库](docs/基本概念/静态库.md)
     * [共享库](docs/基本概念/共享库.md)
 * [文件I/O](docs/文件I/O/文件I/O.md)
