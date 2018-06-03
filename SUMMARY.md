@@ -1,6 +1,7 @@
 # Summary
 
 * [UNIX_Programming_Manual](README.md)
+* [UNIX格言](UNIX格言.md)
 * [历史和标准](docs/历史和标准/历史和标准.md)
 * [基本概念](docs/基本概念/基本概念.md)
     * [系统调用](docs/基本概念/系统调用.md)
