@@ -13,5 +13,6 @@
 * [内存管理](docs/内存管理/内存管理.md)
 * [文件系统](docs/文件系统/文件系统.md)
 * [网络IPC](docs/网络IPC/网络IPC.md)
+* [APUE环境搭建](docs/APUE环境搭建/APUE环境搭建.md)
 * [TLPI环境搭建](docs/TLPI环境搭建/TLPI环境搭建.md)
 
