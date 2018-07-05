@@ -1,4 +1,18 @@
-# Linux/UNIX API手册
+# Linux/UNIX 环境高级编程学习笔记
+
+本仓库已经开始作为GitBook仓库，访问地址
+
+<https://yifengyou.gitbooks.io/unix_programming_manual/content/>
+
+GitHub访问地址
+
+<https://github.com/yifengyou/UNIX_Programming_Manual>
+
+```
+Something I hope you know before go into the coding~
+First, please watch or star this repo, I'll be more happy if you follow me.
+Bug report, questions and discussion are welcome, you can post an issue or pull a request.
+```
 
 ![1527904858152.png](image/1527904858152.png)
 
