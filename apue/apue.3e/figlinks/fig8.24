@@ -1,1 +1,0 @@
-../proc/systest3.c

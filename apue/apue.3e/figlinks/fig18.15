@@ -1,1 +1,0 @@
-../termios/ttyname.c

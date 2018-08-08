@@ -1,1 +1,0 @@
-../exercises/getlogin.c

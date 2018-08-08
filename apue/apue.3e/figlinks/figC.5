@@ -1,1 +1,0 @@
-../exercises/getpwsvr4.c

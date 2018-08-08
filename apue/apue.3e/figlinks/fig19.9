@@ -1,1 +1,0 @@
-../lib/ptyopen.c

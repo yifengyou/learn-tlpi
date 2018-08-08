@@ -1,1 +1,0 @@
-../exercises/fifo1.c

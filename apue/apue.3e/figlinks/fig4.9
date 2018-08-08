@@ -1,1 +1,0 @@
-../filedir/umask.c

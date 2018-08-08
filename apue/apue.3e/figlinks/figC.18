@@ -1,1 +1,0 @@
-../exercises/sizepipe.c

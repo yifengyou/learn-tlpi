@@ -1,1 +1,0 @@
-../stdio/tempfiles.c

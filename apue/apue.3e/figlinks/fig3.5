@@ -1,1 +1,0 @@
-../fileio/mycat.c

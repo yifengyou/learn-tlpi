@@ -1,1 +1,0 @@
-../environ/getrlimit.c

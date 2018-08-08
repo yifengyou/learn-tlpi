@@ -1,1 +1,0 @@
-../threadctl/detach.c
