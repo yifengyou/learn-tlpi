@@ -1,4 +1,5 @@
-# Linux/UNIX 环境高级编程学习笔记
+# TLPI(The Linux Programming Interface)
+# 《linux/unix系统编程手册(上、下册)》学习笔记
 
 本仓库已经开始作为GitBook仓库，访问地址
 
@@ -14,10 +15,9 @@ First, please watch or star this repo, I'll be more happy if you follow me.
 Bug report, questions and discussion are welcome, you can post an issue or pull a request.
 ```
 
-
 ## 参考书目
 
-> 《linux/unix系统编程手册(上、下册)》
+> 《linux/unix系统编程手册(上、下册)》(The Linux Programming Interface)
 
 ![1527904396352.png](image/1527904396352.png)
 
@@ -28,7 +28,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 《linux/unix系统编程手册(上、下册)》在汇聚大批 linux专有特性(epoll、inotify、/proc)的同时，还特意强化了对unix标准(posix、sus)的论述，彻底达到了“鱼与熊掌，二者得兼”的效果，这也堪称本书的最大亮点。
 
 《linux/unix系统编程手册(上、下册)》布局合理，论述清晰，说理透彻，尤其是作者对示例代码的构思巧妙，独具匠心，仔细研读定会受益良多。本书适合从事linux/unix系统开发、运维工作的技术人员阅读，同时也可作为高校计算机专业学生的参考研习资料。
-
 
 
 ## 注意事项
